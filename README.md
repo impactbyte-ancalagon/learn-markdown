@@ -1,6 +1,6 @@
 # Learn Markdown with Friends
 
-> We are here to learn markdown together.
+> We are here to learn markdown together. Yeay!
 
 GitHub supports emoji!
 :+1: :sparkles: :tada:
