@@ -1,4 +1,4 @@
-# Learn Markdown
+# Learn Markdown with Friends
 
 > We are here to learn markdown together.
 
